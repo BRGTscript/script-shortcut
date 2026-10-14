@@ -25,3 +25,14 @@ workspace.FOLDER FOLDER NAME:WaitForChild("TARGET PATH NAME")
 -- PATH WaitForChild 
 
 workspace:WaitForChild("PATH NAME")
+
+
+
+
+
+
+
+
+-- player hitbox path
+
+game.Players.LocalPlayer.Character:WaitForChild("HumanoidRootPart")
