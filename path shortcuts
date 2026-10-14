@@ -1,0 +1,27 @@
+-- all body path 
+
+game.Players.LocalPlayer
+
+
+
+
+
+
+
+
+
+-- PATH FOLDER WaitForChild 
+
+workspace.FOLDER FOLDER NAME:WaitForChild("TARGET PATH NAME")
+
+
+
+
+
+
+
+
+
+-- PATH WaitForChild 
+
+workspace:WaitForChild("PATH NAME")
