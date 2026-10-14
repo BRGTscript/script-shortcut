@@ -1,0 +1,7 @@
+
+
+-- use 0 for true, use 1 for false
+
+-- firetouchinterest script
+
+firetouchinterest(hitbox name, target name, 1)
