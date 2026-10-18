@@ -1,7 +1,25 @@
 
+-- !!! KAPAG TAPOS NA KAYO GUMAWA NG firetouchinterest ICOPY MO TAPOS I PASTE MO SA BABANYA TAPOS PALITAN MO NG NUMBER 0 PARA GUMANA YUNG firetouchinterest !!!
+
+
+
+
+
+
+
+
+
 
 -- use 0 for true, use 1 for false
 
 -- firetouchinterest script
 
-firetouchinterest(hitbox name, target name, 1)
+-- player hitbox touch
+
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, part name, 0)
+
+
+
+-- rename hitbox part
+
+firetouchinterest(hitbox name, part name, 1)
